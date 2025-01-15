@@ -9,13 +9,21 @@ redirect_from:
 
 *The main objective of this site is to host documentation about the projects that have driven my development as a mechanical engineer, both in school and in the workforce.*
 
-### [Scrolling DLP Resin Printer](https://dmalexa5.github.io/projects/dlp/)
+[Scrolling DLP Resin Printer](https://dmalexa5.github.io/projects/dlp/)
+===
+
+![DLP Image](https://dmalexa5.github.io/images/3953273590_704e3899d5_m)
+
 A [Digital Light Processing](https://formlabs.com/blog/resin-3d-printer-comparison-sla-vs-dlp/) resin printer is an emerging technology that utilizes a high-powered projector to transfer energy dosages into a resin bath in high-resolution, tightly-calibrated amounts, inducing [cross-linkage](https://en.wikipedia.org/wiki/Cross-link) in the resin. This is repeated over a set of layers until a solid feature is created.
 
-### [CLI Routings Tool](https://dmalexa5.github.io/projects/cli/)
+[CLI Routings Tool](https://dmalexa5.github.io/projects/cli/)
+===
+
 Over my two semesters in the 024A Creedmoor Manufacturing Division (CMD) at Altec, routings were the primary daily tasks assigned to co-ops and interns. During my fall semester alone, the department received over 900 new parts that needed independant time estimation calculations and rules on the part flow through the manufacturing floor.
 
-### [MAE 435 Principles of Automatic Control](https://dmalexa5.github.io/projects/mae435/)
+[MAE 435 Principles of Automatic Control](https://dmalexa5.github.io/projects/mae435/)
+===
+
 **Course Description**
 
 Study of linear feedback control systems using transfer functions. Transient and steady state responses. Stability and dynamic analyses using time response and frequency response techniques. Compensation methods. Classical control theory techniques for determination and modification of the dynamic response of a system. Synthesis and design applications to typical mechanical engineering control systems. *Introduction to modern control theory.*
