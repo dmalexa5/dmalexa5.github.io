@@ -1,10 +1,11 @@
 ---
-permalink: /projects/cli/
-title: 'cli-route-locate'
+permalink: /projects/senior-design/
+title: 'Senior Design'
 author_profile: true
 redirect_from: 
-  - /projects/cli/
-  - /projects/cli.html
+  - /projects/senior-design/
+  - /projects/sd/
+  - /projects/senior-design.html
 ---
 
 An overview of the [cli-route-locate](https://github.com/dmalexa5/cli-route-locate) repository and its impact on the co-op position in the 024A Manufacturing Department.
