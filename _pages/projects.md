@@ -12,7 +12,7 @@ redirect_from:
 [Scrolling DLP Resin Printer](https://dmalexa5.github.io/projects/dlp/)
 ===
 
-![DLP Image](https://dmalexa5.github.io/images/dlp_header)
+![DLP Image](https://dmalexa5.github.io/images/dlp_header.png)
 
 Digial Light Processing (DLP) resin printer is an emerging technology that utilizes a high-powered projector to transfer energy dosages into a resin bath in high-resolution, tightly-calibrated amounts, inducing cross-linkage in the resin. This is repeated over a set of layers until a solid feature is created.
 
