@@ -1,13 +1,12 @@
 ---
 permalink: /projects/cli/
-title: 'cli-route-locate'
+title: 'cli-route-locate Project'
 author_profile: true
 redirect_from: 
   - /projects/cli/
   - /projects/cli.html
 ---
 [⇦ back to projects](https://dmalexa5.github.io/projects/)
-***
 
 Tool for routing and locating parts
 ===
