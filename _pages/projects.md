@@ -12,14 +12,16 @@ redirect_from:
 [Scrolling DLP Resin Printer](https://dmalexa5.github.io/projects/dlp/)
 ===
 
-![DLP Image](https://dmalexa5.github.io/images/3953273590_704e3899d5_m)
+![DLP Image](https://dmalexa5.github.io/images/dlp_header)
 
-A [Digital Light Processing](https://formlabs.com/blog/resin-3d-printer-comparison-sla-vs-dlp/) resin printer is an emerging technology that utilizes a high-powered projector to transfer energy dosages into a resin bath in high-resolution, tightly-calibrated amounts, inducing [cross-linkage](https://en.wikipedia.org/wiki/Cross-link) in the resin. This is repeated over a set of layers until a solid feature is created.
+Digial Light Processing (DLP) resin printer is an emerging technology that utilizes a high-powered projector to transfer energy dosages into a resin bath in high-resolution, tightly-calibrated amounts, inducing cross-linkage in the resin. This is repeated over a set of layers until a solid feature is created.
+
+
 
 [CLI Routings Tool](https://dmalexa5.github.io/projects/cli/)
 ===
 
-Over my two semesters in the 024A Creedmoor Manufacturing Division (CMD) at Altec, routings were the primary daily tasks assigned to co-ops and interns. During my fall semester alone, the department received over 900 new parts that needed independant time estimation calculations and rules on the part flow through the manufacturing floor.
+Over my two semesters in the 024A Creedmoor Manufacturing Division (CMD) at Altec, routings were the primary daily tasks assigned to co-ops and interns. During my fall semester alone, the department received over 900 new parts that needed independant time estimation calculations and rules on the part flow through the manufacturing floor. This project reduced the amount of time needed to route aprs by
 
 [MAE 435 Principles of Automatic Control](https://dmalexa5.github.io/projects/mae435/)
 ===
@@ -33,6 +35,8 @@ Study of linear feedback control systems using transfer functions. Transient and
 TBD
 
 ### [MAE 535 Principles of Automatic Control](https://dmalexa5.github.io/projects/mae535/)
+===
+
 **Course Description**
 
 A practical introduction to electromechanical systems with emphasis on modeling, analysis, design, and control techniques. Provides theory and practical tools for the design of electric machines (standard motors, linear actuators, magnetic bearings, etc). Involves some self-directed laboratory work and culuminates in an industrial design project. Topics include Maxwell's equations, electromechanical energy conversion, finite element analysis, design and control techniques.
@@ -42,6 +46,8 @@ A practical introduction to electromechanical systems with emphasis on modeling,
 TBD
 
 ### [Senior Design (F'25 to S'26)](https://dmalexa5.github.io/projects/senior-design/)
+===
+
 "Good design protects you from the need for too many highly accurate components in the system."
 Richard Hamming, The Art of Doing Science and Engineering, Simulation III"
 

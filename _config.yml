@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "David's Homepage'"
+title                    : "David Alexander"
 title_separator          : "-"
 name                     : &name "David Alexander"
 description              : &description "Mechanical Engineering Student at North Carolina State University"

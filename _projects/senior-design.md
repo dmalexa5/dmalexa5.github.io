@@ -7,7 +7,7 @@ redirect_from:
   - /projects/sd/
   - /projects/senior-design.html
 ---
-*[⇦ back to projects](https://dmalexa5.github.io/projects/)*
+[⇦ back to projects](https://dmalexa5.github.io/projects/)
 ***
 
 An overview of the [cli-route-locate](https://github.com/dmalexa5/cli-route-locate) repository and its impact on the co-op position in the 024A Manufacturing Department.

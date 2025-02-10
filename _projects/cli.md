@@ -6,7 +6,7 @@ redirect_from:
   - /projects/cli/
   - /projects/cli.html
 ---
-*[⇦ back to projects](https://dmalexa5.github.io/projects/)*
+[⇦ back to projects](https://dmalexa5.github.io/projects/)
 ***
 
 Tool for routing and locating parts

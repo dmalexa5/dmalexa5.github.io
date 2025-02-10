@@ -7,7 +7,7 @@ redirect_from:
   - /projects/dlp.html
 ---
 
-*[⇦ back to projects](https://dmalexa5.github.io/projects/)*
+[⇦ back to projects](https://dmalexa5.github.io/projects/)
 ***
 <br>
 
