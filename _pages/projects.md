@@ -7,7 +7,6 @@ redirect_from:
   - /projects.html
 ---
 
-*The main objective of this site is to host documentation about the projects that have driven my development as a mechanical engineer, both in school and in the workforce.*
 
 [Scrolling DLP Resin Printer](https://dmalexa5.github.io/projects/dlp/)
 ===
