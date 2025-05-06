@@ -1,6 +1,8 @@
 ---
-layout: default
-title: "Sample post"
+layout: post
+title: "A sample post block"
+description: "Sample post description."
+image: "/assets/sample1.png"
 ---
 
-This is my first post on a Jekyll site built from scratch.
+This is the full content of my first post.
