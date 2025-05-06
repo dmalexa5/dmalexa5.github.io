@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "A sample post block"
+title: "A Sample Post Block"
 description: "Sample post description."
 image: "/assets/sample1.png"
+permalink: /temp/
 ---
 
 This is the full content of my first post.
